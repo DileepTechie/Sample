@@ -14,6 +14,6 @@ public class SampleController {
 	
 	@PostMapping("/two")
     public String methodTwo() {
-        return "Hello";
+        return "Hello Word";
     }
 }
